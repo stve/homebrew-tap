@@ -8,12 +8,12 @@ A [Homebrew tap] for various personal projects.
 
 Tap this repository:
 
-    brew tap stve/formulae
+    brew tap stve/tap
 
 Install the packages it contains like any other Homebrew package:
 
-    brew install scar
-    brew install tn
+    brew install stve/tap/scar
+    brew install stve/tap/tn
 
 ## Contributing
 
